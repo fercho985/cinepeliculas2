@@ -1,5 +1,5 @@
 
-package cine;
+package Formularios;
 
 import java.awt.Image;
 import javax.swing.ImageIcon;

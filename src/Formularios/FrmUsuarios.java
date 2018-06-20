@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cine;
+package Formularios;
 
+import Clases.Usuarios;
 import java.awt.Image;
 import java.sql.ResultSet;
 import java.sql.SQLException;

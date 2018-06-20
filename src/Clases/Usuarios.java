@@ -1,5 +1,5 @@
 
-package cine;
+package Clases;
 import java.sql.ResultSet;
 public class Usuarios {
  Conexion cn= new Conexion();
